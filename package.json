@@ -2,7 +2,7 @@
   "name": "forge-template",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Pradeep-selva/forge-template",
+  "repository": "https://github.com/Pradeep-selva/foundry-template",
   "author": "pradeep-selva <pradeepselvaraju@gmail.com>",
   "license": "MIT",
   "private": false,
